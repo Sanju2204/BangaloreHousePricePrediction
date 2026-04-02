@@ -98,5 +98,20 @@ BangaloreHousePricePrediction/
 └── notebooks/
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Author
-**Sanjana Gupta**
+
+**Sanjana Gupta**  
+GitHub: [Sanju2204](https://github.com/Sanju2204)

@@ -96,3 +96,7 @@ BangaloreHousePricePrediction/
 │   ├── columns.json
 │   └── known_locations.json
 └── notebooks/
+
+
+## Author
+**Sanjana Gupta**
